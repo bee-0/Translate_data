@@ -1,0 +1,38 @@
+[
+   {
+      "annotations": [
+         {
+            "type": "singleAnswer",
+            "answer": [
+               "I'm fine"
+            ]
+         }
+      ],
+      "id": "1",
+      "question": "Hello, how are you?"
+   },
+   {
+      "annotations": [
+         {
+            "type": "singleAnswer",
+            "answer": [
+               "Yes, I do"
+            ]
+         }
+      ],
+      "id": "2",
+      "question": "Do you like ice cream?"
+   },
+   {
+      "annotations": [
+         {
+            "type": "singleAnswer",
+            "answer": [
+               "I enjoy playing sports"
+            ]
+         }
+      ],
+      "id": "3",
+      "question": "What is your favorite hobby?"
+   }
+]

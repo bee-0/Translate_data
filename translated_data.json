@@ -1,0 +1,38 @@
+[
+    {
+        "annotations": [
+            {
+                "type": "singleAnswer",
+                "answer": [
+                    "Saya baik-baik saja"
+                ]
+            }
+        ],
+        "id": "1",
+        "question": "Halo apa kabarmu?"
+    },
+    {
+        "annotations": [
+            {
+                "type": "singleAnswer",
+                "answer": [
+                    "Ya, saya bersedia"
+                ]
+            }
+        ],
+        "id": "2",
+        "question": "Apakah kamu suka es krim?"
+    },
+    {
+        "annotations": [
+            {
+                "type": "singleAnswer",
+                "answer": [
+                    "Saya menikmati olahraga"
+                ]
+            }
+        ],
+        "id": "3",
+        "question": "Apa hobi favoritmu?"
+    }
+]
